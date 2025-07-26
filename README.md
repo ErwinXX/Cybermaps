@@ -1,1 +1,1 @@
-# mindmaps
+# Cybermaps
