@@ -1,10 +1,5 @@
 <h1 align="center">🧠 Cybersecurity Mindmaps & Flowcharts</h1>
 
-<p align="center">
-  A curated collection of mindmaps to master <b>TryHackMe</b>, <b>Hack The Box</b>, and <b>CTF challenges</b><br>
-  <i>Visualize tools, concepts, flags & command workflows — all in one place</i>
-</p>
-
 ---
 
 ## 🔍 Overview
@@ -38,15 +33,6 @@ You can:
 - 📌 Use them during live CTF events or study sessions
 
 > 💡 **Pro Tip**: Combine these maps with your own notes for maximum retention!
-
----
-
-## 🚀 Ideal For
-
-- 🧑‍🎓 Students learning cybersecurity
-- 🎯 CTF players and red teamers
-- 🧠 Visual learners who love structured content
-- 🔍 Anyone preparing for exams like OSCP, PNPT, etc.
 
 ---
 
